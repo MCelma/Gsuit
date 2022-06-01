@@ -1,0 +1,16 @@
+;Pagina de gsuit admin
+15 tab->add new user
+    .first name. tab
+    .surname.tab
+    .primary email (solo nombre)tab
+    .@travelperk.com (puesto por defecto no tocar).tab
+    .Secondary email (en blanco).tab
+    .phone number (blanc).tab
+    .tab
+    .tab
+    click/enter "add new user"
+
+
+
+;Txt con los usuarios a crear
+nombre, apellido, email
