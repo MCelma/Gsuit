@@ -1,0 +1,1 @@
+esc::exitapp   ; paaaaanic

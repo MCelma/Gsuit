@@ -1,4 +1,4 @@
-;Pagina de gsuit admin
+/*;Pagina de gsuit admin
 15 tab->add new user
     .first name. tab
     .surname.tab
@@ -14,3 +14,4 @@
 
 ;Txt con los usuarios a crear
 nombre, apellido, email
+*/
